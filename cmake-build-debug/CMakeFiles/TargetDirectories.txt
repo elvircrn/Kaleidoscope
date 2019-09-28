@@ -1,0 +1,4 @@
+/home/elvircrn/CLionProjects/Kaleidoscope/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elvircrn/CLionProjects/Kaleidoscope/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elvircrn/CLionProjects/Kaleidoscope/cmake-build-debug/CMakeFiles/intrinsics_gen.dir
+/home/elvircrn/CLionProjects/Kaleidoscope/cmake-build-debug/CMakeFiles/simple-tool.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/elvircrn/CLionProjects/Kaleidoscope/main.cpp
+iostream
+-
+llvm/MC/MachineLocation.h
+-
+
+/usr/lib/llvm-8/include/llvm/MC/MachineLocation.h
+cstdint
+-
+cassert
+-
+
